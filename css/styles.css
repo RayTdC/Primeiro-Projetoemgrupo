@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(233, 200, 108, 0.884);
+    margin: 0;
+    box-sizing: border-box;
+    height: 1500px;
+}
+header {
+    background-color: rgba(216, 61, 0, 0.863);
+    width: 100%;
+ 
+}
+.container {
+    max-width: 1080px;
+    margin: 25% left;
+    display: flexbox:inline;
+    
+}
+.logo img {
+    width: 125px;
+    border-radius: 50%;
+    
+}
+nav a:hover{
+    transition: 0.5s;
+    background-color: rgba(22, 20, 19, 0.719);
+    color: rgb(209, 179, 6);
+}
