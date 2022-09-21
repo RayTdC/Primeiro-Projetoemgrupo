@@ -1,11 +1,11 @@
 h2 {
-    font-family:'lobster';
+    font-family: 'lobster';
 }
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family:'gloria';
+    font-family: 'gloria';
 }
 section{
     position: relative;
