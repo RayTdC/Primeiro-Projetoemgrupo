@@ -28,7 +28,7 @@ nav a:hover{
     font-size: 40px;
     font-weight: 400;
     margin-bottom: 40px;
-  
+    font-family: "Sans family";
 
 }
 #contact h4{
@@ -36,6 +36,7 @@ nav a:hover{
     display: block;
     font-size: 20px;
     font-weight: 400;
+    font-family: "Open Sans";
 }
 
 fieldset{
