@@ -1,3 +1,15 @@
+header .container1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1px 100px;
+    display: flex;
+    align-items:inherit;
+    justify-content: space-between;
+    background-color: #FF6B6B;
+
+}
 header {
     background-color: rgb(253, 207, 207);
     height: 900px;
