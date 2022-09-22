@@ -1,44 +1,10 @@
-
-    
-}
-.logo img {
-    width: 280px;
-    border-radius: 50%;
-    position: relative;
-    left: 15px;
-    bottom: 20px;
-}
-nav {
-    margin-left: 400px;
-    position: absolute;
-    top: 120px;
-    left: 35px;
-}
 nav a:hover{
     transition: 0.5s;
     background-color: rgba(22, 20, 19, 0.493);
     color: rgb(255, 0, 64);
 }
 
-a {
-  text-decoration: none;
-  position: relative;
-  right: 150px;
-  font-size: 30px;
-  color: rgba(243, 65, 80, 0.897);
-  
-}
 
-body {
-    font-family:'Opens Sans';
-    font-weight: 400;
-    font-style: normal;
-    font-size: 22px;
-    color: rgb(0, 0, 0);
-    text-shadow: 2px 1px 2px rgb(0, 0, 0);
-    color: rgb(255, 255, 255);
-
-}
 
 #contact input[type="text"],
 #contact input[type="email"],
@@ -51,7 +17,7 @@ body {
 #contact {
     background-color: rgba(219, 42, 57, 0.897);
     padding: 25px;
-    margin: 10px 300px 0px 300px;
+    margin: 100px 300px 0px 300px;
     box-shadow: 0 0 2px 0 (0,0,0,0.2), 0.5px 0 rgba(0,0,0, 0.24) ;
     border: black 1px solid;
     position: relative;
@@ -59,7 +25,7 @@ body {
 }
 #contact h3{
     display: block;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 400;
     margin-bottom: 40px;
   
