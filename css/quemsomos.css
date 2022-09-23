@@ -15,12 +15,6 @@ body {
     margin:25% left; 
     display: inline; 
     }
-    Logo img{ 
-    border-radius: 50%;
-    position: relative;
-    left: 15px;
-    bottom: 20px;
-     }
     nav a:hover{
     transition: 0.5s;
     background-color: rgba(22, 20, 19, 0.493);
