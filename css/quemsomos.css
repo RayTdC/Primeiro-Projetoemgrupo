@@ -16,8 +16,11 @@ body {
     display: inline; 
     }
     Logo img{ 
-        width: 200px; 
-        border-radius: 50%;
+    width: 280px;
+    border-radius: 50%;
+    position: relative;
+    left: 15px;
+    bottom: 20px;
      }
     nav a:hover{
     transition: 0.5s;
