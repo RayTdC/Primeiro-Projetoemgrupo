@@ -39,12 +39,12 @@ body {
         left: 180px;
       
     }
-    .titulo {
+    titulo {
        font-weight: 1000px;
        text-align: center;
        font-size: 50px;
     }
-    .texto  {
+    texto  {
         text-align: center;
         position: relative;
         font-size: 32px;
