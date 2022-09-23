@@ -19,10 +19,11 @@ body {
         width: 200px; 
         border-radius: 50%;
      }
-     nav a:hover{ 
-     transition: 0.5s;
-      color: white;
-      }
+    nav li:hover{
+    transition: 0.5s;
+    background-color: rgba(22, 20, 19, 0.493);
+    color: rgb(255, 0, 64);
+}
       nav {
         margin-left: 400px;
         position: absolute;
