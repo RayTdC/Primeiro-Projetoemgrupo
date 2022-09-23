@@ -39,12 +39,12 @@ body {
         left: 180px;
       
     }
-    h2 {
+    .titulo {
        font-weight: 1000px;
        text-align: center;
        font-size: 50px;
     }
-    p  {
+    .texto  {
         text-align: center;
         position: relative;
         font-size: 32px;
