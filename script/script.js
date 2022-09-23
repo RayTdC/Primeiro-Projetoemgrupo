@@ -1,4 +1,4 @@
 function Compreaqui() {
-alert("Origado por comprar conosco!");
+   alert("Origado por comprar conosco!");
 }
 
