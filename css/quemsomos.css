@@ -39,21 +39,21 @@ body {
         left: 180px;
       
     }
-    titulo {
+    h2 {
        font-weight: 1000px;
        text-align: center;
        font-size: 50px;
     }
-    texto  {
+    p {
         text-align: center;
         position: relative;
         font-size: 32px;
         
 
     }
-    img{
-      height: 150px;
-    }
+    mexer {
+        width: auto;
+}
      
 
     
