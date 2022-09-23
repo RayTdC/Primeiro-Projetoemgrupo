@@ -39,21 +39,17 @@ body {
         left: 180px;
       
     }
-    h2 {
+    #texto h2{
        font-weight: 1000px;
        text-align: center;
        font-size: 50px;
     }
-    p {
+    #texto p{
         text-align: center;
         position: relative;
-        font-size: 32px;
-        
-
-    }
-    mexer {
-        width: auto;
+        font-size: 32px; 
 }
+  
      
 
     
