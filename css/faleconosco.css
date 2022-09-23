@@ -19,7 +19,7 @@ nav a:hover{
 #contact {
     background-color: rgba(219, 42, 57, 0.897);
     padding: 25px;
-    margin: 10px 300px 0px 300px;
+    margin:  5px 300px 500px 400px;
     box-shadow: 0 0 2px 0 (0,0,0,0.2), 0.5px 0 rgba(0,0,0, 0.24) ;
     border: black 1px solid;
     position: relative;
