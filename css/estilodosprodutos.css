@@ -12,7 +12,6 @@
 
 }
 
-
 .topo{
   text-align: right ; /**texto alinhado do lado direito**/
 }
@@ -30,7 +29,7 @@
   color: #fff ; /**cor da fonte da barra do menu**/
   text-transform: uppercase ; /**nome maisculo**/
   line-height: 15px;/**espaçamento da letras**/
-  display: none;/**retirada linha de link**/
+
 }
 /**mudar a cor da barra de navegação**/
 .topo ul li a:hover{ 
