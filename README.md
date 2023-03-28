@@ -1,10 +1,11 @@
 # Projeto-em-Grupo
-Ajudando um Empreendedor.
-Será adicionado aqui, todo o andamento do projeto.
+<h3>Nosso primeiro projeto em Squad, Módulo 1 </h3>
+<h3>Ajudando um Empreendedor.</h3>
 
 
-Página principal: Maicon.
-Página de produtos: Rannyelle e Taís.
-Página nossa equipe: Kesia Raísha e Maicon.
-Página quem somos: Raísha e Maicon.
-Página fale conosco: Raísha e Maicon.
+
+<p>Página principal: Maicon.</p>
+<p>Página de produtos: Rannyelle e Taís.</p>
+<p>Página nossa equipe: Kesia Raísha e Maicon.</p>
+<p>Página quem somos: Raísha e Maicon.</p>
+<p>Página fale conosco: Raísha e Maicon.</p>
